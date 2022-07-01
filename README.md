@@ -131,7 +131,7 @@
 
 
 <!----------------------------------- Top Repository Section ------------------------------------>
-
+<!-- 
 <h2><i>Top Repositories</i></h2>
 
 
@@ -153,7 +153,7 @@
     </a>
     <a href="https://github.com/rkshristi123/cherry_clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rkshristi123i&-&locale=en&cherry_cloneborder_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
+    </a> -->
     
     
 </p>
