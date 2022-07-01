@@ -23,10 +23,10 @@
 
 <p align="left">
     <a href="https://github.com/rkshristi123">
-        <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="rkshristi123" />
+        <img src="https://komarev.com/ghpvc/?username=rkshristi123&label=Profile%20views&color=0e75b6&style=flat" alt="rkshristi123" />
     </a>
     <a href="https://github.com/rkshristi123">
-        <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/rkshristi123?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
