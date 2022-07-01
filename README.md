@@ -1,16 +1,20 @@
-### Hi there 👋
+rkshristi123/README.md
+Hi 
+Hi.gif
+ I'm Shristi kumari 
+- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+- I Have a Youtube Channel Link
 
-<!--
-**rkshristi123/rkshristi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+m-sehrawat followers-count
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+html5 css3 bootstrap tailwind javascript nodejs expressjs mongodb npm postman git github reactjs redux material-ui chakra-ui styled-components
+
+
+Let's Connect
+https://linkedin.com/in/m-sehrawat https://twitter.com/MohitSehrawatt https://mohit-portfolio.vercel.app/ mohitsehrawat000@gmail.com
+
+
+Top Repositories
+m-sehrawat m-sehrawat m-sehrawat m-sehrawat m-sehrawat m-sehrawat
