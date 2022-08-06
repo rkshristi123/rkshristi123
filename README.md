@@ -69,7 +69,7 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/shristi-kumari-180329230/">
+    <a href="linkedin.com/in/shristi-kumari-b07927247">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shristi-kumari-b07927247/" />
     </a>
  
