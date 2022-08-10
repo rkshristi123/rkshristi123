@@ -64,13 +64,13 @@
 
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
-<h2><i>Let's Connect</i></h2>
+<!-- <h2><i>Let's Connect</i></h2>
 
 
 <p align="left">
  <a href="linkedin.com/in/shristi-kumari-b07927247"> <img src="https://qph.cf2.quoracdn.net/main-qimg-9139dbc53375526441099b13546853b7"/></a>
 </p>
-<br>
+<br> -->
 
 
 
