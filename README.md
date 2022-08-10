@@ -65,18 +65,7 @@
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
 
-
-<p align="left">
-    <a href="linkedin.com/in/shristi-kumari-b07927247">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shristi-kumari-b07927247/" />
-    </a>
- 
-  
-  
-</p>
-<br>
 
 
 
