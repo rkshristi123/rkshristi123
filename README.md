@@ -64,7 +64,22 @@
 
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
+<h2><i>Let's Connect</i></h2>
 
+
+<p align="left">
+    <a href="linkedin.com/in/shristi-kumari-b07927247">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/shristi-kumari-b07927247" />
+    </a>
+  
+    <a href=" https://shristi-portfolio.vercel.app">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt=" https://shristi-portfolio.vercel.app" />
+    </a>
+    <a title="shristikumari759@gmail.com" href="mailto:shristikumari759@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shristikumari759@gmail.com" />
+    </a>
+</p>
+<br>
 
 
 
