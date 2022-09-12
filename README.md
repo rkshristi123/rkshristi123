@@ -85,7 +85,7 @@
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
-<!-- <h2><i>My GitHub Stats</i></h2>
+ <h2><i>My GitHub Stats</i></h2>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rkshristi123&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="rkshristi123" height="139" />
