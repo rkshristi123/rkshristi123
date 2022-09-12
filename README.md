@@ -100,12 +100,12 @@
 
 
 
-  <a href="https://github.com/ArjunSinghBhakuni?tab=repositories">
+  <a href="https://github.com/rkshristi123?tab=repositories">
     <img width="400" height="auto"  alt="Jitesh's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=ArjunSinghBhakuni&show_icons=true&theme=algolia&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api?username=rkshristi123&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" alt="ArjunSinghBhakuni" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkshristi123&hide=smalltalk&theme=algolia&layout=compact" alt="rkshristi123" />
 </p>
 
 
