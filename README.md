@@ -93,7 +93,7 @@
 </p> -->
 
  
-  <h2><i>My GitHub Stats</i></h2>
+  <h2><i>My GitHub Status</i></h2>
  
 <p display="flex" align="center">
 <img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkshristi123&hide=smalltalk&theme=algolia&layout=compact" width="400" />
